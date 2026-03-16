@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DesaiArhaan
-- 👀 I’m interested in Python, ML , Web Dev
+- 👋 Hi, I’m @Flownium
+- 👀 I’m interested in Python, ML 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-DesaiArhaan/DesaiArhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flownium/Flownium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
